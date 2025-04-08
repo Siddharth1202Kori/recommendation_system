@@ -20,7 +20,7 @@ app = FastAPI()
 # CORS origins
 CORS_ORIGINS = [
     "http://localhost:3000",
-    
+    "https://final-front-qoan.onrender.com",
 ]
 #--------------------------------------------Altered code: chage :1
 
