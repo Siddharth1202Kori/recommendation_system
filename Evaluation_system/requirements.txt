@@ -1,0 +1,17 @@
+streamlit
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+sentence-transformers
+chromadb
+python-multipart
+pymongo
+chromadb
+sentence_transformers
+langchain
+mistralai
+langchain_community

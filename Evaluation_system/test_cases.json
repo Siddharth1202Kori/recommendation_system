@@ -1,0 +1,34 @@
+[
+    {
+      "input": "Looking for a data entry specialist with attention to detail",
+      "expected_keywords": ["data entry", "clerical", "entry-level", "administrative"]
+    },
+    {
+      "input": "Need a project manager for our software development team",
+      "expected_keywords": ["project manager", "projects", "managing projects", "project timelines"]
+    },
+    {
+      "input": "Hiring a business analyst with data skills",
+      "expected_keywords": ["professional", "analyzing data", "gathering requirements"]
+    },
+    {
+      "input": "Looking for manager to lead our sales department",
+      "expected_keywords": ["manager", "leadership", "coaching employees", "meeting goals"]
+    },
+    {
+      "input": "Data scientist position for experienced professionals",
+      "expected_keywords": ["data", "analyzing", "professional", "requirements"]
+    },
+    {
+      "input": "Administrative assistant for executive office",
+      "expected_keywords": ["administrative", "clerical", "office assistant", "staff assistant"]
+    },
+    {
+      "input": "Director of engineering position",
+      "expected_keywords": ["director", "manager", "leadership", "strategic"]
+    },
+    {
+      "input": "Entry level data clerk needed",
+      "expected_keywords": ["data entry", "entry-level", "clerical", "clerk"]
+    }
+  ]
